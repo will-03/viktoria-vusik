@@ -23,7 +23,23 @@
 
 Чтобы вставить изображение в текст, необходимо написать следующее ![Привет, это тефтелька!](teftelka.jpeg)
 
-## Ссылки
+## Ссылки  
+Git для новичков https://habr.com/ru/post/541258/  https://habr.com/ru/post/542616/
+
+ * Инструкция по работе с Git и удаленными репозиториями 
+https://github.com/oleggolen/Seminar-13-12-2021
+* Интерактивный учебник по git https://learngitbranching.js.org/?locale=ru_RU
+* Справочники по разметке MarkDown
+ https://learn.microsoft.com/ru-ru/contribute/markdown-reference 
+ https://github.com/esimankova/formatREADME
+* Настройка репозитория https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository
+* Сохранение изменений https://www.atlassian.com/ru/git/tutorials/saving-changes
+* Проверка репозитория https://www.atlassian.com/ru/git/tutorials/saving-changes
+* Отмена изменений https://www.atlassian.com/ru/git/tutorials/undoing-changes
+* ИНТЕРАКТИВНЫЙ УЧЕБНИК GIT пройти обязательно 
+https://learngitbranching.js.org/?locale=ru_RU 
+
+
 
 ## Работа с таблицами 
 
